@@ -1,4 +1,4 @@
-<h1 align="center">👋👋Adriano, Estudante de Desenvolvimento de Sistemas</h1>
+<h1 align="center">👋👋</h1>
 
 ###
 
